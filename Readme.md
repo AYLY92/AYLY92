@@ -7,3 +7,13 @@ Ces travaux portent essentiellement sur la collecte, la transformation et la vis
   L'article est dispnible à travers le lien suivant: https://github.com/AYLY92/memoire/tree/main/Rapport  
   Je suis ouvert à toutes collaborations.  
   Bonne visite et merci d'avance !!!
+
+### Hi guys
+ 👽 Welcome to my GitHub profile where I share my projects!   
+  I have an Undifferentiated Master's degree in Data Engineering and Artificial Intelligence from the University of Thies and a Bachelor's degree in Applied Mathematics and Finance from the University Gaston Berger of Saint-Louis.  
+  I have worked on various projects in machine learning, deep learning, data architecture and artificial intelligence 🤖. 
+These works mainly focus on the collection, transformation and visualization of data finally to extract useful information for decision making.   
+  As part of my research paper, I wrote an article on the application of recurrent neural networks for the prediction of the hydraulic regime of the Senegal River. It is indeed an application that I designed with the streamlit framework. This last one makes forecasts of the daily water heights at the level of the upstream basin of the Senegal River more precisely in the stations of Bakel, Matam and Podor.  
+  The article is available through the following link: https://github.com/AYLY92/memoire/tree/main/Rapport  
+  I am open to all collaborations.  
+  Enjoy your visit and thank you in advance!
